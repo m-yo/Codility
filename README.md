@@ -1,2 +1,2 @@
 # Codility
-Lessions in codility
+Coding lessions in codility.com
